@@ -1,0 +1,28 @@
+{
+  "name": "excel-auto-creationformysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kim971202/excel-auto-creationForMysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kim971202/excel-auto-creationForMysql/issues"
+  },
+  "homepage": "https://github.com/Kim971202/excel-auto-creationForMysql#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
